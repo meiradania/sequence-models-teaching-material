@@ -12,7 +12,7 @@ The material focuses implementation using Keras [Sequential API](https://keras.i
 
 Original content developed and maintained by Dania Meira - [meira.dania@gmail.com](mailto:meira.dania@gmail.com)
 
-Distributed under the [MIT license](https://github.com/meiradania/bash-teaching-material/blob/master/LICENSE.md).
+Distributed under the [MIT license](https://github.com/meiradania/sequence-models-teaching-material/blob/master/LICENSE.md).
 
 
 
