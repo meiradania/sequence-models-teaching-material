@@ -58,4 +58,5 @@ $ pip install keras
 - [Directory of tutorials and open-source code repositories for working with Keras](https://github.com/fchollet/keras-resources)
 - [deeplearning.ai Sequence Course](https://www.coursera.org/learn/nlp-sequence-models/)
 - [Keras Blog](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+- [How to configure the number of layers and nodes in a neural network](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
 - [Time series prediction with LSTM](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
