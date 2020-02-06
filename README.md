@@ -12,7 +12,7 @@ The material focuses implementation using Keras [Sequential API](https://keras.i
 
 Original content developed and maintained by Dania Meira - [meira.dania@gmail.com](mailto:meira.dania@gmail.com)
 
-Distributed under the [MIT license](https://github.com/meiradania/bash-teaching-material/blob/master/LICENSE.md).
+Distributed under the [MIT license](https://github.com/meiradania/sequence-models-teaching-material/blob/master/LICENSE.md).
 
 
 
@@ -58,4 +58,5 @@ $ pip install keras
 - [Directory of tutorials and open-source code repositories for working with Keras](https://github.com/fchollet/keras-resources)
 - [deeplearning.ai Sequence Course](https://www.coursera.org/learn/nlp-sequence-models/)
 - [Keras Blog](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+- [How to configure the number of layers and nodes in a neural network](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
 - [Time series prediction with LSTM](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
